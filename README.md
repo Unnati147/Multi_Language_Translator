@@ -1,4 +1,4 @@
-#  Multi-Language Translator (AI-Powered)
+#  Multi-Language Translator (VoiceGlobe)
 
 This project is a **Generative AI-powered multilingual translator** that enables natural, fluent, and context-aware translations from English into over 200 global languages. It supports both **text translation** and **text-to-speech audio output**, making it accessible, interactive, and educational.
 
@@ -45,5 +45,5 @@ Users can input English text and choose a target language to receive:
 
 ## 📸 Demo
 
-(assets/translator.png)
+(assets/Demo.png)
 
