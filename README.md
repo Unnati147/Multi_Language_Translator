@@ -45,5 +45,6 @@ Users can input English text and choose a target language to receive:
 
 ## 📸 Demo
 
-(assets/Demo.png)
+![VoiceGlobe](assets/Demo.png)
+
 
